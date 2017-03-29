@@ -8,6 +8,11 @@ loomed
 shortlist
 antlers
 milquetoast
+<<<<<<< HEAD
 blacksmith
 August
 Sgt
+=======
+tooted
+smokiest
+>>>>>>> perkiness
